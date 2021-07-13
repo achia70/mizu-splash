@@ -1,1 +1,4 @@
-<p>Works?</p>
+<h1>Welcome to Mizu Browser</h1>
+Search the web: 
+<script async src="https://cse.google.com/cse.js?cx=a0e85bfa519814bb5"></script>
+<div class="gcse-search"></div>
